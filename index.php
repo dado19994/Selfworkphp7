@@ -112,29 +112,29 @@
 // --------------------------------------------
 
 
-function somma(...$numbers){ // SPLAT OPERATOR 
+// function somma(...$numbers){ // SPLAT OPERATOR 
 
-    // var_dump($numbers);
-    // $somma = 0; // Accumulatore
-    // foreach($numbers as $number){
-    //     $somma += $number;
-    // }
-    // echo $somma;
+//     // var_dump($numbers);
+//     // $somma = 0; // Accumulatore
+//     // foreach($numbers as $number){
+//     //     $somma += $number;
+//     // }
+//     // echo $somma;
 
-    // $somma = 0; // Accumulatore
-    // for ($i = 0; $i < count($numbers); $i++){
-    //     $somma += $numbers[$i];
-    // }
+//     // $somma = 0; // Accumulatore
+//     // for ($i = 0; $i < count($numbers); $i++){
+//     //     $somma += $numbers[$i];
+//     // }
 
-    return $somma; // return mi permette di restituire un valore
+//     return $somma; // return mi permette di restituire un valore
 
     
     
-}
+// }
 
-$risultato = somma(10, 20, 30, 40, 50, 60, 70);
+// $risultato = somma(10, 20, 30, 40, 50, 60, 70);
 
-echo $risultato / 100;
+// echo $risultato / 100;
 
 
 
